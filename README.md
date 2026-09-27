@@ -41,8 +41,8 @@ While building this project, I practiced:
 
 ## Screenshot
 
-Screenshot coming soon.
+![Weather App Screenshot](weather-app-screenshot.png)
 
 ## Live Demo
 
-Live demo coming soon.
+[View the Live Weather App](https://sivanathilak.github.io/weather-app/)
